@@ -1,0 +1,4 @@
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	520	250	0.00832	3	3	0	0	1534 x 1024	1	19-May-2017
+outputImage	2	Automatically Found	29	250	0.000464	3	3	0	0	1534 x 1024	1	19-May-2017
+outputImage	3	Automatically Found	57	250	0.000912	3	3	0	0	1534 x 1024	1	19-May-2017
