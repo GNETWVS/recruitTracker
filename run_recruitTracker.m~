@@ -58,6 +58,7 @@ close
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
+%
 % Part II - GUI to guide user to mark corals
 %
 % First, some parameters:
@@ -73,31 +74,26 @@ close
                 
 % Manual Entry
 pix2cm = 50; % This is a value that works for the example dataset we have provided.
-             % If you are evaluating our dataset (which contains the
-             % flourescent rope) and you want the code to calculate pix2cm
-             % automatically, set pix2cm = 0 in the above line. This
-             % variable is important because the scale bar is drawn based
-             % on this. If you are evaluating your own dataset, specify
-             % this value manually.
 
-        
+% Automatic Calculation: uncomment the line below if you want the code to
+% calculate it for each image for OUR dataset.
+
+                
 % cmThreshold:  Size range of major diameter of corals, outside of which they will be eliminated
                 % Adjust as needed. If you are not looking for recruits,
                 % you can specify a much wider range.
 
-                cmThreshold = [0.1 5];
+                cmThreshold = [0.1 2.5];
 
 % c:            an rgb-lab color transform
-                % This is used for more easily finding green flourescent
-                % corals.
+                % This 
 c = makecform('srgb2lab');
 
-% outputFileName: output file name that will be saved in folder with that
-% name.
+% output file name that will be saved in folder "outputFileName"
 outputFileName = 'coralData.txt';
 
 % Start the coral tracking program
-rT_recruitTracker(Isubtracted,outputFileName,cmThreshold,pix2cm,c);
+rT_recruitTracker(Isubtracted,outputFileName,cmThreshold,c);
 
 
 
