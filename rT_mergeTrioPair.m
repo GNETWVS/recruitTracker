@@ -10,6 +10,11 @@ ambientImage = imread(amb_im_path);
 whiteImage = imread(white_im_path);
 fluoresenceImage = imread(fluo_im_path);
 
+% Added by Derya on September 6, 2017 to check
+ambientImage = imresize(ambientImage,0.5);
+whiteImage = imresize(whiteImage,0.5);
+fluoresenceImage = imresize(fluoresenceImage,0.5);
+
 % Convert them to double and grayscale
 ambientImgLinear = double(ambientImage);
 fluroImgLinear = double(fluoresenceImage);
@@ -80,6 +85,10 @@ Out = flr-R*amb;
 Summed = Out + whiteImgLinear;
 Summed = rT_adjust(Summed,1,3);
 Out = Out/max(Out(:));
+
+% Scale back up.
+Out = imresize(Out,2);
+Summed = imresize(Summed,2);
 
 end
 

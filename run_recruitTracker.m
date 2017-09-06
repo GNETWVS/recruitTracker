@@ -1,16 +1,17 @@
-% Main script to run recruitTracker user interface
+% Main script to run recruitTracker user interface. The code is provided as
+% is, but please feel free to contact the authors for questions.
 %
 % If you use this code, please cite the following paper:
 %
-% Zweifler et al.........
-% *** ADI PLEASE FILL IN YOUR CITATION HERE ****
-% *** when you have it **************
+% Zweifler, Adi, Derya Akkaynak, Tali Mass, and Tali Treibitz. 
+% "In Situ Analysis of Coral Recruits Using Fluorescence Imaging." 
+% Frontiers in Marine Science 4 (2017): 273.
 %
-%
-% This code also uses the export_fig toolbox from:
+% This code uses the export_fig toolbox. Please download from:
 % https://www.mathworks.com/matlabcentral/fileexchange/23629-export-fig
 %
-% It also requires the Matlab Vision Toolbox.
+% It also requires the Matlab Vision Toolbox. You can check if you have
+% this toolbox by typing "ver" in your command line.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -18,15 +19,16 @@
 % Part I - Image subtraction
 %
 % The user to points to the white, ambient, and flourescent images,
-% (which are processed using dcraw from raw images as described in the paper).
+% (which are processed using dcraw from raw images as described in the paper, 
+% and converted into linear, uncompressed tiffs).
 %
 %
 % Ask the user to specify the path of the white image
-[white_im_name,white_im_path] = uigetfile('*.png','Please select the white image.');
+[white_im_name,white_im_path] = uigetfile('*.tiff','Please select the white image.');
 % Ask the user to specify the path of the ambient image
-[amb_im_name,amb_im_path] = uigetfile('*.png','Please select the ambient image.');
+[amb_im_name,amb_im_path] = uigetfile('*.tiff','Please select the ambient image.');
 % Ask the user to specify the path of the fluorescent image
-[fluo_im_name,fluo_im_path] = uigetfile('*.png','Please select the fluorescent image.');
+[fluo_im_name,fluo_im_path] = uigetfile('*.tiff','Please select the fluorescent image.');
 
 tic
 % Perform the image subtraction and registration

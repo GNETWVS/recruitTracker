@@ -1,0 +1,147 @@
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	520	250	0.00832	3	3	0	0	1534 x 1024	1	19-May-2017
+outputImage	2	Automatically Found	29	250	0.000464	3	3	0	0	1534 x 1024	1	19-May-2017
+outputImage	3	Automatically Found	57	250	0.000912	3	3	0	0	1534 x 1024	1	19-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	38	0.031856	6	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		16	38	0.01108	6	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		10	38	0.0069252	6	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		77	38	0.053324	6	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		13	38	0.0090028	6	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		68	38	0.047091	6	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+outputImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+outputImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	659	50	0.2636	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		46	50	0.0184	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		728	50	0.2912	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		21	50	0.0084	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		16	50	0.0064	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		27	50	0.0108	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		10	50	0.004	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	8		77	50	0.0308	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	9		13	50	0.0052	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	10		68	50	0.0272	10	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	659	50	0.2636	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		46	50	0.0184	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		728	50	0.2912	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		21	50	0.0084	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		16	50	0.0064	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		27	50	0.0108	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		10	50	0.004	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	8		77	50	0.0308	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	9		13	50	0.0052	10	1	0	0	1534 x 1024	1	31-May-2017
+testImage	10		68	50	0.0272	10	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		27	50	0.0108	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		10	50	0.004	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		77	50	0.0308	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		13	50	0.0052	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	8		68	50	0.0272	8	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	46	50	0.0184	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		21	50	0.0084	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		16	50	0.0064	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		27	50	0.0108	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		10	50	0.004	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		77	50	0.0308	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		13	50	0.0052	8	1	0	0	1534 x 1024	1	31-May-2017
+testImage	8		68	50	0.0272	8	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Automatically Found	21	50	0.0084	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	2		16	50	0.0064	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	3		27	50	0.0108	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	4		10	50	0.004	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	5		77	50	0.0308	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	1	0	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	1	0	0	1534 x 1024	1	31-May-2017
+imgName 	 coralLabel 	 coralStatus 	 AreaPix^2 	 pixTocm 	 AreaCM^2 	CoralsFoundInImage 	 CoralsKeptInImage 	 CoralsRejectedInImage 	 CoralsManuallyAddedToImage 	OriginalImgSize 	 resizeFactor 	 dateSaved 
+testImage	1	Manually Removed	21	50	0.0084	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	2	Manually Removed	16	50	0.0064	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	3	Manually Removed	27	50	0.0108	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	4	Automatically Found	10	50	0.004	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	5	Automatically Found	77	50	0.0308	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	6		13	50	0.0052	7	2	3	0	1534 x 1024	1	31-May-2017
+testImage	7		68	50	0.0272	7	2	3	0	1534 x 1024	1	31-May-2017

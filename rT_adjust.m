@@ -20,6 +20,9 @@ minw = min(min(work));
 minw = minw(:);
 maxw = max(max(work));
 maxw = maxw(:);
+% Added by Derya
+maxw = maxw + 0.00001;
+maxw(maxw>1) = 1;
 
 if flag==3
     s = size(work); work = work(:); flag = 1;
